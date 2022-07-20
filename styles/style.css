@@ -87,10 +87,20 @@ main {
     border-radius: 10px;
     font-size: 20px;
     font-weight: 500s;
+    text-decoration: none;
+
 }
 
 #Blog {
     background-color: #DD0000;
+}
+
+a {
+    color: #161616;
+}
+
+a:link {
+    text-decoration: none;
 }
 
 .transfer-info {
