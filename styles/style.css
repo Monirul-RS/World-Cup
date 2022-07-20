@@ -11,7 +11,6 @@ header {
 
 .banner {
     display: flex;
-    border: 2px solid yellow;
     border-radius: 30px;
     background-color: #161616;
     width: 90%;
@@ -72,7 +71,6 @@ main {
 
 .nav {
     display: grid;
-    border: 1px solid yellow;
     border-radius: 10px;
     width: 400px;
     height: 340px;
@@ -166,4 +164,15 @@ hr {
     justify-content: space-evenly;
     margin-left: 250px;
     margin-right: 250px;
+}
+
+.fa-brands {
+    margin-top: 20px;
+    font-size: 50px;
+    color: #B9B9B9;
+}
+
+.fa-twitter,
+.fa-instagram {
+    margin-left: 20px;
 }
